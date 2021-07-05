@@ -49,4 +49,12 @@ public class MyLinkedList<E> {
         }
     }
 
+    //
+
+    //removeFirst
+
+    //removeLast
+
+    //removeIndex
+
 }
